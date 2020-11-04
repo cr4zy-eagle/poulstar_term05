@@ -1,0 +1,8 @@
+.grid {width: 40px;
+    height: 20px;
+    background-color: red;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+        }
